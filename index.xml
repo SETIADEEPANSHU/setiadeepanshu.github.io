@@ -11,50 +11,51 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>External Project</title>
+      <title>Enhancing Tourism and Cultural Experience Through Gamification</title>
+      <link>/publication/clothing-search/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>/publication/clothing-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iSahayog, Collaboration based innovative solutions</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Problem Statement:
+Mapping college neighbourhood and Social Possibilities&lt;/p&gt;
+
+&lt;p&gt;Problem Description:
+There are many locally relevant problems which come across to UGC where the nearby educational institution can play a vital role. Bringing such problems into the notice of nearby educational institution can be thought of as an open-source innovation /crowd-sourced solution. For example, managing traffic or reducing accident rates by the initiative/involvement of an institution in the vicinity. Or, sharing an innovation on water harvesting (an MRP or a Project) and impacting the real saving of water may be mapped. Many student projects can be well aligned to local social problems. Can we have a digital tool for such project based collaborations with real impact. Can we map such colleges and link it with the digital platform to share innovations (as mentioned in problem statement 3). This can directly impact the curriculum with the real regional requirement, a way to ensure relevance of learning. An example: A district has very unfavourable number of old-young ratio of citizens. This clearly indicates the possibility for having a course in geriatrics or assistive healthcare in the colleges in that district.&lt;/p&gt;
+
+&lt;p&gt;Solution:
+Collaboration based innovative solutions through Portal&lt;/p&gt;
+
+&lt;p&gt;Solution Description:
+A Web App which gathers all problems related to society and neighbourhood from various sources like Grievance Portal , Complaints portal (crawlers), Social Media like twitter,facebook (based on sentimental analysis) stack rank them and gathers in our database. The problems are then categorised through Machine Learning categorisation algorithm using Scikit-learn Library . These categorized problems are then mapped to nearby local colleges . Finally problem solvers can pick the problem and collaborate(with other solvers) through Slack API integrated client in our website. Lastly monitoring of projects and their status in real-time by UGC through UGC-console.&lt;/p&gt;
+
+&lt;p&gt;TECHNOLOGY STACK
+Front End: • Bootstrap/SemanticUl • HTML5, CSS • JavaScript/JQuery Database: • MySql/MongoDB • Hadoop. Server Side: • Python • AJAX • Machine Learning.&lt;/p&gt;
+
+&lt;p&gt;USE CASE
+&lt;img src=&#34;https://camo.githubusercontent.com/2a4dc1ebe85dd83d3000fbf8066902d3de3dbb23/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f747046506448586a644c625355573744677037367845446b484667414e4c313975366978584554734634575561725778774879344875676f372d764470664e38454148796b546a536235736e34445671347831496b653058705a6934333632762d5948372d6b4659306e49594f323959345439746f4b43547159316477536e647255496256475442&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;web2py is a free open source full-stack framework for rapid development of fast, scalable, secure and portable database-driven web-based applications.&lt;/p&gt;
+
+&lt;p&gt;Youtube: &lt;a href=&#34;https://www.youtube.com/watch?v=3pgkyWvglvo&amp;amp;feature=youtu.be&#34; target=&#34;_blank&#34;&gt;https://www.youtube.com/watch?v=3pgkyWvglvo&amp;amp;feature=youtu.be&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eproctor</title>
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0530</pubDate>
-      
-      <guid>/publication/person-re-id/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0530</pubDate>
-      
-      <guid>/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

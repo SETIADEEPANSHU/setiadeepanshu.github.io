@@ -7,27 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jun 2018 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>External Project</title>
+      <title>iSahayog, Collaboration based innovative solutions</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>Problem Statement: Mapping college neighbourhood and Social Possibilities
+Problem Description: There are many locally relevant problems which come across to UGC where the nearby educational institution can play a vital role. Bringing such problems into the notice of nearby educational institution can be thought of as an open-source innovation /crowd-sourced solution. For example, managing traffic or reducing accident rates by the initiative/involvement of an institution in the vicinity. Or, sharing an innovation on water harvesting (an MRP or a Project) and impacting the real saving of water may be mapped.</description>
+    </item>
+    
+    <item>
+      <title>Eproctor</title>
       <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
       
       <guid>/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
-      
-      <guid>/project/internal-project/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
   </channel>
