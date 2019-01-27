@@ -7,9 +7,91 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>/tags/computer-vision/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face-Detection</title>
+      <link>/tags/face-detection/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/face-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face-Recognition</title>
+      <link>/tags/face-recognition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/face-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCV</title>
+      <link>/tags/opencv/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine-learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>/tags/python/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentiment-analysis</title>
+      <link>/tags/sentiment-analysis/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ugc</title>
+      <link>/tags/ugc/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/ugc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web2py</title>
+      <link>/tags/web2py/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/tags/web2py/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

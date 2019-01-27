@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ugc on Deepanshu Setia</title>
+    <link>/tags/ugc/</link>
+    <description>Recent content in ugc on Deepanshu Setia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Jun 2018 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="/tags/ugc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iSahayog, Collaboration based innovative solutions</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>Problem Statement: Mapping college neighbourhood and Social Possibilities
+Problem Description: There are many locally relevant problems which come across to UGC where the nearby educational institution can play a vital role. Bringing such problems into the notice of nearby educational institution can be thought of as an open-source innovation /crowd-sourced solution. For example, managing traffic or reducing accident rates by the initiative/involvement of an institution in the vicinity. Or, sharing an innovation on water harvesting (an MRP or a Project) and impacting the real saving of water may be mapped.</description>
+    </item>
+    
+  </channel>
+</rss>

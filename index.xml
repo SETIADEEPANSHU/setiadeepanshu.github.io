@@ -10,5 +10,53 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0530</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Enhancing Tourism and Cultural Experience Through Gamification</title>
+      <link>/publication/clothing-search/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>/publication/clothing-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iSahayog, Collaboration based innovative solutions</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0530</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Problem Statement:
+Mapping college neighbourhood and Social Possibilities&lt;/p&gt;
+
+&lt;p&gt;Problem Description:
+There are many locally relevant problems which come across to UGC where the nearby educational institution can play a vital role. Bringing such problems into the notice of nearby educational institution can be thought of as an open-source innovation /crowd-sourced solution. For example, managing traffic or reducing accident rates by the initiative/involvement of an institution in the vicinity. Or, sharing an innovation on water harvesting (an MRP or a Project) and impacting the real saving of water may be mapped. Many student projects can be well aligned to local social problems. Can we have a digital tool for such project based collaborations with real impact. Can we map such colleges and link it with the digital platform to share innovations (as mentioned in problem statement 3). This can directly impact the curriculum with the real regional requirement, a way to ensure relevance of learning. An example: A district has very unfavourable number of old-young ratio of citizens. This clearly indicates the possibility for having a course in geriatrics or assistive healthcare in the colleges in that district.&lt;/p&gt;
+
+&lt;p&gt;Solution:
+Collaboration based innovative solutions through Portal&lt;/p&gt;
+
+&lt;p&gt;Solution Description:
+A Web App which gathers all problems related to society and neighbourhood from various sources like Grievance Portal , Complaints portal (crawlers), Social Media like twitter,facebook (based on sentimental analysis) stack rank them and gathers in our database. The problems are then categorised through Machine Learning categorisation algorithm using Scikit-learn Library . These categorized problems are then mapped to nearby local colleges . Finally problem solvers can pick the problem and collaborate(with other solvers) through Slack API integrated client in our website. Lastly monitoring of projects and their status in real-time by UGC through UGC-console.&lt;/p&gt;
+
+&lt;p&gt;TECHNOLOGY STACK
+Front End: • Bootstrap/SemanticUl • HTML5, CSS • JavaScript/JQuery Database: • MySql/MongoDB • Hadoop. Server Side: • Python • AJAX • Machine Learning.&lt;/p&gt;
+
+&lt;p&gt;USE CASE
+&lt;img src=&#34;https://camo.githubusercontent.com/2a4dc1ebe85dd83d3000fbf8066902d3de3dbb23/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f747046506448586a644c625355573744677037367845446b484667414e4c313975366978584554734634575561725778774879344875676f372d764470664e38454148796b546a536235736e34445671347831496b653058705a6934333632762d5948372d6b4659306e49594f323959345439746f4b43547159316477536e647255496256475442&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;web2py is a free open source full-stack framework for rapid development of fast, scalable, secure and portable database-driven web-based applications.&lt;/p&gt;
+
+&lt;p&gt;Youtube: &lt;a href=&#34;https://www.youtube.com/watch?v=3pgkyWvglvo&amp;amp;feature=youtu.be&#34; target=&#34;_blank&#34;&gt;https://www.youtube.com/watch?v=3pgkyWvglvo&amp;amp;feature=youtu.be&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eproctor</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
