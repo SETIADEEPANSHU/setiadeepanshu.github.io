@@ -91,6 +91,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   line-height: 1.25;
   color: #313131;
+
   text-rendering: optimizeLegibility;
 
   /* Ensure long words do not overflow into content. */
@@ -503,6 +504,11 @@ a[data-fancybox] img {
 
 .home-section:first-of-type {
   padding-top: 50px;
+  background: #2c98e3 url(../img/bg-blue.svg);
+  
+  background-size: 100% 100%;
+  color: #fff!important;
+  color: black;
 }
 
 .home-section:nth-of-type(even) {
@@ -635,13 +641,16 @@ a[data-fancybox] img {
   font-size: 1.75em;
   font-weight: 300;
   color: #000000;
+  color: #fff;
   margin: 20px 0 10px 0;
 }
 
 #profile .portrait-title h3 {
   font-size: 1rem;
   font-weight: 300;
+  
   color: rgba(0,0,0, 0.54);
+  color: rgba(255,255,255,.7);
   margin: 0px 0 10px 0;
 }
 
@@ -652,10 +661,15 @@ ul.network-icon {
   justify-content: center;
   list-style: none;
   padding: 0;
+  
 }
 
 #profile .network-icon {
   margin-top: 30px;
+}
+
+#profile ul.network-icon a {
+    color: #c5ddee;
 }
 
 .network-icon li {
